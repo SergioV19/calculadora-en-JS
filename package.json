@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calcula",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioV19/calculadora-en-JS.git"
+  },
+  "author": "Sergio vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioV19/calculadora-en-JS/issues"
+  },
+  "homepage": "https://github.com/SergioV19/calculadora-en-JS#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }, 
+  "jest":{
+    "testEnviroment":"node"
+  }
+}
